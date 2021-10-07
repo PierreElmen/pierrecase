@@ -1,0 +1,38 @@
+.card {
+	margin: 1rem auto 0rem auto;
+	background: #212325;
+	width: 8.875rem;
+	height: fit-content;
+	border-radius: 1.25rem;
+
+	text-align: center;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.card p {
+	font-size: 0.75rem;
+	color: #f6f5e8;
+	line-height: 0.5rem;
+}
+.infoWrapper {
+	margin-bottom: 1rem;
+}
+
+.addHeight {
+	height: 2rem;
+}
+
+.plusCard {
+	margin: 1rem auto 0rem auto;
+	background: #212325;
+	width: 8.875rem;
+	height: 8.875rem;
+	border-radius: 1.25rem;
+	text-align: center;
+}
+
+.plusCard h3 {
+	font-size: 0.75rem;
+	color: #f6f5e8;
+	line-height: 0.5rem;
+}

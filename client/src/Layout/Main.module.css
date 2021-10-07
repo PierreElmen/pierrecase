@@ -1,0 +1,11 @@
+.main {
+	height: 100%;
+	width: 100%;
+}
+.wrapper {
+	margin: 2rem auto 2rem auto;
+	padding: 0 1rem;
+	max-width: 380px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}

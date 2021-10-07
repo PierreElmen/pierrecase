@@ -1,0 +1,37 @@
+@import-normalize;
+
+@font-face {
+	font-family: 'Poppins bold';
+	src: url('assets/fonts/Poppins-Bold.ttf');
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-family: 'Poppins bold';
+	color: #212325;
+}
+
+body {
+	margin: 0;
+	background-color: #dbcfc3;
+}
+
+h1 {
+	font-size: 3rem;
+	margin: 0;
+}
+
+h2 {
+	font-size: 1.125rem;
+	margin-left: 1rem;
+}
+
+h3 {
+	font-size: 0.75rem;
+	color: #f6f5e8;
+	margin: 1rem 0rem;
+	line-height: 0.5rem;
+}
